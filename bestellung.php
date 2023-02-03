@@ -1,16 +1,3 @@
-
-Microsoft Azure
-Digitaler Zwilling
-Lösung
-Microsoft Azure
-Datenbank
-08.01.2023 Seite 1 von 3
-Inhalt
-1 Lösung ......................................................................................................................................... 2
-Microsoft Azure
-Datenbank
-08.01.2023 Seite 2 von 3
-1 Lösung
 <html> <!-- Start HTML -->
 <head> <!-- Start HTML-Kopf -->
 <!-- CSS-Formatierung für die Tabelle -->
